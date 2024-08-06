@@ -1,13 +1,14 @@
 [
   {
-    "title": "ml5.js 1.0 and Guest Conductor Patt Vira",
-    "duration": "3314",
-    "category": "Education",
-    "uploadedDate": "2024-07-31T08:00:02-07:00",
-    "uid": "2h8VArJ3gnQ",
-    "link": "https://www.youtube.com/watch?v=2h8VArJ3gnQ",
-    "channelLink": "http://www.youtube.com/@TheCodingTrain",
-    "channelName": "The Coding Train"
+    "title": "Nature's Incredible ROTATING MOTOR (It’s Electric!) - Smarter Every Day 300",
+    "duration": "1777",
+    "category": "Science & Technology",
+    "uploadedDate": "2024-07-28T07:00:19-07:00",
+    "uid": "VPSm9gJkPxU",
+    "link": "https://www.youtube.com/watch?v=VPSm9gJkPxU",
+    "channelLink": "http://www.youtube.com/@smartereveryday",
+    "channelName": "SmarterEveryDay",
+    "updatedDate": "2024-08-04T10:30:00.000Z"
   },
   {
     "title": "We Just Discovered \"Dark\" Oxygen on Earth - Breakthrough Explained",
@@ -17,67 +18,41 @@
     "uid": "iixZ6UptVNo",
     "link": "https://www.youtube.com/watch?v=iixZ6UptVNo",
     "channelLink": "http://www.youtube.com/@DrBenMiles",
-    "channelName": "Dr Ben Miles"
+    "channelName": "Dr Ben Miles",
+    "updatedDate": "2024-08-03T10:30:00.000Z"
   },
   {
-    "title": "Nature's Incredible ROTATING MOTOR (It’s Electric!) - Smarter Every Day 300",
-    "duration": "1777",
-    "category": "Science & Technology",
-    "uploadedDate": "2024-07-28T07:00:19-07:00",
-    "uid": "VPSm9gJkPxU",
-    "link": "https://www.youtube.com/watch?v=VPSm9gJkPxU",
-    "channelLink": "http://www.youtube.com/@smartereveryday",
-    "channelName": "SmarterEveryDay"
-  },
-  {
-    "title": "We Recreated CIA Technology, It Was Surprisingly Easy (Microdots)",
-    "duration": "1046",
-    "category": "Science & Technology",
-    "uploadedDate": "2024-07-24T08:00:18-07:00",
-    "uid": "nqRtzQOf0Xk",
-    "link": "https://www.youtube.com/watch?v=nqRtzQOf0Xk",
-    "channelLink": "http://www.youtube.com/@thethoughtemporium",
-    "channelName": "The Thought Emporium"
-  },
-  {
-    "title": "Please stop using px for font-size.",
-    "duration": "918",
+    "title": "ml5.js 1.0 and Guest Conductor Patt Vira",
+    "duration": "3314",
     "category": "Education",
-    "uploadedDate": "2024-07-22T07:00:49-07:00",
-    "uid": "xCSw6bPXZks",
-    "link": "https://www.youtube.com/watch?v=xCSw6bPXZks",
-    "channelLink": "http://www.youtube.com/@TheCoderCoder",
-    "channelName": "Coder Coder"
+    "uploadedDate": "2024-07-31T08:00:02-07:00",
+    "uid": "2h8VArJ3gnQ",
+    "link": "https://www.youtube.com/watch?v=2h8VArJ3gnQ",
+    "channelLink": "http://www.youtube.com/@TheCodingTrain",
+    "channelName": "The Coding Train",
+    "updatedDate": "2024-08-02T10:30:00.000Z"
   },
   {
-    "title": "Database Tuning at Zerodha - India's Largest Stock Broker",
-    "duration": "2677",
-    "category": "Science & Technology",
-    "uploadedDate": "2024-07-07T03:39:01-07:00",
-    "uid": "XB2lF_Z9cbs",
-    "link": "https://www.youtube.com/watch?v=XB2lF_Z9cbs",
-    "channelLink": "http://www.youtube.com/@perfology",
-    "channelName": "Perfology"
+    "title": "Coding Challenge #98.2: Quadtree - Part 2",
+    "duration": "1240",
+    "category": "Education",
+    "uploadedDate": "2018-03-28T05:41:12-07:00",
+    "uid": "QQx_NmCIuCY",
+    "link": "https://www.youtube.com/watch?v=QQx_NmCIuCY",
+    "channelLink": "http://www.youtube.com/@TheCodingTrain",
+    "channelName": "The Coding Train",
+    "updatedDate": "2024-08-01T10:30:00.000Z"
   },
   {
-    "title": "Scientists Just Discovered A New Formula For Pi Accidentally",
-    "duration": "586",
-    "category": "Science & Technology",
-    "uploadedDate": "2024-06-30T09:37:54-07:00",
-    "uid": "t1ZnptSEPI8",
-    "link": "https://www.youtube.com/watch?v=t1ZnptSEPI8",
-    "channelLink": "http://www.youtube.com/@MindYourDecisions",
-    "channelName": "MindYourDecisions"
-  },
-  {
-    "title": "How a CIA Base Works",
-    "duration": "848",
-    "category": "Entertainment",
-    "uploadedDate": "2024-06-09T07:00:24-07:00",
-    "uid": "RZs5Hz1klno",
-    "link": "https://www.youtube.com/watch?v=RZs5Hz1klno",
-    "channelLink": "http://www.youtube.com/@fern-tv",
-    "channelName": "fern"
+    "title": "Coding Challenge #98.1: Quadtree - Part 1",
+    "duration": "2288",
+    "category": "Education",
+    "uploadedDate": "2018-03-26T09:39:28-07:00",
+    "uid": "OJxEcs0w_kE",
+    "link": "https://www.youtube.com/watch?v=OJxEcs0w_kE",
+    "channelLink": "http://www.youtube.com/@TheCodingTrain",
+    "channelName": "The Coding Train",
+    "updatedDate": "2024-07-31T10:30:00.000Z"
   },
   {
     "title": "The Weirdest Linux Bug Ever Discovered",
@@ -87,37 +62,8 @@
     "uid": "-6fPfwixNLk",
     "link": "https://www.youtube.com/watch?v=-6fPfwixNLk",
     "channelLink": "http://www.youtube.com/@BrodieRobertson",
-    "channelName": "Brodie Robertson"
-  },
-  {
-    "title": "Everything We Teach at YCombinator in 10 Minutes",
-    "duration": "619",
-    "category": "People & Blogs",
-    "uploadedDate": "2024-06-01T11:18:54-07:00",
-    "uid": "Pg72m3CjuK4",
-    "link": "https://www.youtube.com/watch?v=Pg72m3CjuK4",
-    "channelLink": "http://www.youtube.com/@Startupistanbul",
-    "channelName": "Startup Istanbul"
-  },
-  {
-    "title": "The ORDER BY Algorithm Is Harder Than You Think",
-    "duration": "826",
-    "category": "Science & Technology",
-    "uploadedDate": "2024-05-31T08:16:11-07:00",
-    "uid": "F9XmmS8rL4c",
-    "link": "https://www.youtube.com/watch?v=F9XmmS8rL4c",
-    "channelLink": "http://www.youtube.com/@tony_saro",
-    "channelName": "Tony Saro"
-  },
-  {
-    "title": "Never* use git pull",
-    "duration": "242",
-    "category": "Science & Technology",
-    "uploadedDate": "2024-05-06T08:30:14-07:00",
-    "uid": "xN1-2p06Urc",
-    "link": "https://www.youtube.com/watch?v=xN1-2p06Urc",
-    "channelLink": "http://www.youtube.com/@philomatics",
-    "channelName": "Philomatics"
+    "channelName": "Brodie Robertson",
+    "updatedDate": "2024-07-30T10:30:00.000Z"
   },
   {
     "title": "The INSANE Evolution of Click Farms",
@@ -127,7 +73,85 @@
     "uid": "-CoEHDHb0lE",
     "link": "https://www.youtube.com/watch?v=-CoEHDHb0lE",
     "channelLink": "http://www.youtube.com/@nowweknow.",
-    "channelName": "now we know."
+    "channelName": "now we know.",
+    "updatedDate": "2024-07-29T10:30:00.000Z"
+  },
+  {
+    "title": "We Recreated CIA Technology, It Was Surprisingly Easy (Microdots)",
+    "duration": "1046",
+    "category": "Science & Technology",
+    "uploadedDate": "2024-07-24T08:00:18-07:00",
+    "uid": "nqRtzQOf0Xk",
+    "link": "https://www.youtube.com/watch?v=nqRtzQOf0Xk",
+    "channelLink": "http://www.youtube.com/@thethoughtemporium",
+    "channelName": "The Thought Emporium",
+    "updatedDate": "2024-07-28T10:30:00.000Z"
+  },
+  {
+    "title": "Please stop using px for font-size.",
+    "duration": "918",
+    "category": "Education",
+    "uploadedDate": "2024-07-22T07:00:49-07:00",
+    "uid": "xCSw6bPXZks",
+    "link": "https://www.youtube.com/watch?v=xCSw6bPXZks",
+    "channelLink": "http://www.youtube.com/@TheCoderCoder",
+    "channelName": "Coder Coder",
+    "updatedDate": "2024-07-27T10:30:00.000Z"
+  },
+  {
+    "title": "I programmed some creatures. They Evolved.",
+    "duration": "3370",
+    "category": "Science & Technology",
+    "uploadedDate": "2020-12-13T15:35:01-08:00",
+    "uid": "N3tRFayqVtk",
+    "link": "https://www.youtube.com/watch?v=N3tRFayqVtk",
+    "channelLink": "http://www.youtube.com/@davidrandallmiller",
+    "channelName": "davidrandallmiller",
+    "updatedDate": "2024-07-26T10:30:00.000Z"
+  },
+  {
+    "title": "What Are Those Other Weird QR Codes?",
+    "duration": "970",
+    "category": "Science & Technology",
+    "uploadedDate": "2021-04-07T07:30:02-07:00",
+    "uid": "KMsvtqQqz5g",
+    "link": "https://www.youtube.com/watch?v=KMsvtqQqz5g",
+    "channelLink": "http://www.youtube.com/@ThioJoe",
+    "channelName": "ThioJoe",
+    "updatedDate": "2024-07-25T10:30:00.000Z"
+  },
+  {
+    "title": "How does Starlink Satellite Internet Work?📡☄🖥",
+    "duration": "1689",
+    "category": "Education",
+    "uploadedDate": "2022-08-19T07:02:34-07:00",
+    "uid": "qs2QcycggWU",
+    "link": "https://www.youtube.com/watch?v=qs2QcycggWU",
+    "channelLink": "http://www.youtube.com/@BranchEducation",
+    "channelName": "Branch Education",
+    "updatedDate": "2024-07-24T10:30:00.000Z"
+  },
+  {
+    "title": "How a CIA Base Works",
+    "duration": "848",
+    "category": "Entertainment",
+    "uploadedDate": "2024-06-09T07:00:24-07:00",
+    "uid": "RZs5Hz1klno",
+    "link": "https://www.youtube.com/watch?v=RZs5Hz1klno",
+    "channelLink": "http://www.youtube.com/@fern-tv",
+    "channelName": "fern",
+    "updatedDate": "2024-07-23T10:30:00.000Z"
+  },
+  {
+    "title": "Cicada 3301: An Internet Mystery",
+    "duration": "1074",
+    "category": "Entertainment",
+    "uploadedDate": "2018-05-19T11:50:31-07:00",
+    "uid": "I2O7blSSzpI",
+    "link": "https://www.youtube.com/watch?v=I2O7blSSzpI",
+    "channelLink": "http://www.youtube.com/@LEMMiNO",
+    "channelName": "LEMMiNO",
+    "updatedDate": "2024-07-22T10:30:00.000Z"
   },
   {
     "title": "The Unbreakable Kryptos Code",
@@ -137,16 +161,7 @@
     "uid": "jVpsLMCIB0Y",
     "link": "https://www.youtube.com/watch?v=jVpsLMCIB0Y",
     "channelLink": "http://www.youtube.com/@LEMMiNO",
-    "channelName": "LEMMiNO"
-  },
-  {
-    "title": "Understanding B-Trees: The Data Structure Behind Modern Databases",
-    "duration": "759",
-    "category": "Education",
-    "uploadedDate": "2024-04-29T05:29:13-07:00",
-    "uid": "K1a2Bk8NrYQ",
-    "link": "https://www.youtube.com/watch?v=K1a2Bk8NrYQ",
-    "channelLink": "http://www.youtube.com/@SpanningTree",
-    "channelName": "Spanning Tree"
+    "channelName": "LEMMiNO",
+    "updatedDate": "2024-07-21T10:30:00.000Z"
   }
 ]

@@ -7,57 +7,30 @@
     "uid": "pSHVbLPWA28",
     "link": "https://www.youtube.com/watch?v=pSHVbLPWA28",
     "channelLink": "http://www.youtube.com/@ScienceTime24",
-    "channelName": "Science Time"
+    "channelName": "Science Time",
+    "updatedDate": "2024-07-20T10:30:00.000Z"
   },
   {
-    "title": "Breaking Bitlocker - Bypassing the Windows Disk Encryption",
-    "duration": "551",
+    "title": "Never* use git pull",
+    "duration": "242",
     "category": "Science & Technology",
-    "uploadedDate": "2024-02-03T10:11:18-08:00",
-    "uid": "wTl4vEednkQ",
-    "link": "https://www.youtube.com/watch?v=wTl4vEednkQ",
-    "channelLink": "http://www.youtube.com/@stacksmashing",
-    "channelName": "stacksmashing"
+    "uploadedDate": "2024-05-06T08:30:14-07:00",
+    "uid": "xN1-2p06Urc",
+    "link": "https://www.youtube.com/watch?v=xN1-2p06Urc",
+    "channelLink": "http://www.youtube.com/@philomatics",
+    "channelName": "Philomatics",
+    "updatedDate": "2024-07-19T10:30:00.000Z"
   },
   {
-    "title": "Using docker in unusual ways",
-    "duration": "778",
+    "title": "The ORDER BY Algorithm Is Harder Than You Think",
+    "duration": "826",
     "category": "Science & Technology",
-    "uploadedDate": "2024-01-17T04:01:01-08:00",
-    "uid": "zfNqp85g5JM",
-    "link": "https://www.youtube.com/watch?v=zfNqp85g5JM",
-    "channelLink": "http://www.youtube.com/@dreamsofcode",
-    "channelName": "Dreams of Code"
-  },
-  {
-    "title": "Animation vs. Physics",
-    "duration": "968",
-    "category": "Film & Animation",
-    "uploadedDate": "2023-12-09T05:00:08-08:00",
-    "uid": "ErMSHiQRnc8",
-    "link": "https://www.youtube.com/watch?v=ErMSHiQRnc8",
-    "channelLink": "http://www.youtube.com/@alanbecker",
-    "channelName": "Alan Becker"
-  },
-  {
-    "title": "But why would light \"slow down\"? | Optics puzzles 3",
-    "duration": "1764",
-    "category": "Education",
-    "uploadedDate": "2023-11-30T10:42:33-08:00",
-    "uid": "KTzGBJPuJwM",
-    "link": "https://www.youtube.com/watch?v=KTzGBJPuJwM",
-    "channelLink": "http://www.youtube.com/@3blue1brown",
-    "channelName": "3Blue1Brown"
-  },
-  {
-    "title": "Animation vs. Math",
-    "duration": "843",
-    "category": "Film & Animation",
-    "uploadedDate": "2023-06-24T05:00:09-07:00",
-    "uid": "B1J6Ou4q8vE",
-    "link": "https://www.youtube.com/watch?v=B1J6Ou4q8vE",
-    "channelLink": "http://www.youtube.com/@alanbecker",
-    "channelName": "Alan Becker"
+    "uploadedDate": "2024-05-31T08:16:11-07:00",
+    "uid": "F9XmmS8rL4c",
+    "link": "https://www.youtube.com/watch?v=F9XmmS8rL4c",
+    "channelLink": "http://www.youtube.com/@tony_saro",
+    "channelName": "Tony Saro",
+    "updatedDate": "2024-07-18T10:30:00.000Z"
   },
   {
     "title": "The Fastest Maze-Solving Competition On Earth",
@@ -67,27 +40,8 @@
     "uid": "ZMQbHMgK2rw",
     "link": "https://www.youtube.com/watch?v=ZMQbHMgK2rw",
     "channelLink": "http://www.youtube.com/@veritasium",
-    "channelName": "Veritasium"
-  },
-  {
-    "title": "Beating the $20B Joystick Drift Problem, and giving it away for free",
-    "duration": "1050",
-    "category": "Science & Technology",
-    "uploadedDate": "2023-05-23T08:00:08-07:00",
-    "uid": "oAsrLxaAkY0",
-    "link": "https://www.youtube.com/watch?v=oAsrLxaAkY0",
-    "channelLink": "http://www.youtube.com/@MariusHeier1",
-    "channelName": "Marius Heier"
-  },
-  {
-    "title": "How AI Discovered a Faster Matrix Multiplication Algorithm",
-    "duration": "780",
-    "category": "Science & Technology",
-    "uploadedDate": "2023-05-22T14:49:53-07:00",
-    "uid": "fDAPJ7rvcUw",
-    "link": "https://www.youtube.com/watch?v=fDAPJ7rvcUw",
-    "channelLink": "http://www.youtube.com/@QuantaScienceChannel",
-    "channelName": "Quanta Magazine"
+    "channelName": "Veritasium",
+    "updatedDate": "2024-07-17T10:30:00.000Z"
   },
   {
     "title": "The mind-blowing scale of The Milky Way",
@@ -97,17 +51,19 @@
     "uid": "VsRmyY3Db1Y",
     "link": "https://www.youtube.com/watch?v=VsRmyY3Db1Y",
     "channelLink": "http://www.youtube.com/@EpicSpaceman",
-    "channelName": "Epic Spaceman"
+    "channelName": "Epic Spaceman",
+    "updatedDate": "2024-07-16T10:30:00.000Z"
   },
   {
-    "title": "Why You Shouldn't Nest Your Code",
-    "duration": "510",
+    "title": "But why would light \"slow down\"? | Optics puzzles 3",
+    "duration": "1764",
     "category": "Education",
-    "uploadedDate": "2022-12-06T08:00:11-08:00",
-    "uid": "CFRhGnuXG-4",
-    "link": "https://www.youtube.com/watch?v=CFRhGnuXG-4",
-    "channelLink": "http://www.youtube.com/@CodeAesthetic",
-    "channelName": "CodeAesthetic"
+    "uploadedDate": "2023-11-30T10:42:33-08:00",
+    "uid": "KTzGBJPuJwM",
+    "link": "https://www.youtube.com/watch?v=KTzGBJPuJwM",
+    "channelLink": "http://www.youtube.com/@3blue1brown",
+    "channelName": "3Blue1Brown",
+    "updatedDate": "2024-07-15T10:30:00.000Z"
   },
   {
     "title": "computers suck at division (a painful discovery)",
@@ -117,27 +73,85 @@
     "uid": "ssDBqQ5f5_0",
     "link": "https://www.youtube.com/watch?v=ssDBqQ5f5_0",
     "channelLink": "http://www.youtube.com/@LowLevelLearning",
-    "channelName": "Low Level Learning"
+    "channelName": "Low Level Learning",
+    "updatedDate": "2024-07-14T10:30:00.000Z"
   },
   {
-    "title": "How does Starlink Satellite Internet Work?📡☄🖥",
-    "duration": "1689",
+    "title": "Understanding B-Trees: The Data Structure Behind Modern Databases",
+    "duration": "759",
     "category": "Education",
-    "uploadedDate": "2022-08-19T07:02:34-07:00",
-    "uid": "qs2QcycggWU",
-    "link": "https://www.youtube.com/watch?v=qs2QcycggWU",
-    "channelLink": "http://www.youtube.com/@BranchEducation",
-    "channelName": "Branch Education"
+    "uploadedDate": "2024-04-29T05:29:13-07:00",
+    "uid": "K1a2Bk8NrYQ",
+    "link": "https://www.youtube.com/watch?v=K1a2Bk8NrYQ",
+    "channelLink": "http://www.youtube.com/@SpanningTree",
+    "channelName": "Spanning Tree",
+    "updatedDate": "2024-07-13T10:30:00.000Z"
   },
   {
-    "title": "Top 7 Algorithms for Coding Interviews Explained SIMPLY",
-    "duration": "1282",
+    "title": "Here’s What Happened To The Pirate Bay’s Founders",
+    "duration": "675",
+    "category": "Education",
+    "uploadedDate": "2022-01-28T12:00:03-08:00",
+    "uid": "BR_v5xl4Jnw",
+    "link": "https://www.youtube.com/watch?v=BR_v5xl4Jnw",
+    "channelLink": "http://www.youtube.com/@LogicallyAnswered",
+    "channelName": "Logically Answered",
+    "updatedDate": "2024-07-12T10:30:00.000Z"
+  },
+  {
+    "title": "Scientists Just Discovered A New Formula For Pi Accidentally",
+    "duration": "586",
     "category": "Science & Technology",
-    "uploadedDate": "2022-08-12T09:00:27-07:00",
-    "uid": "kp3fCihUXEg",
-    "link": "https://www.youtube.com/watch?v=kp3fCihUXEg",
-    "channelLink": "http://www.youtube.com/@Codebagel",
-    "channelName": "Codebagel"
+    "uploadedDate": "2024-06-30T09:37:54-07:00",
+    "uid": "t1ZnptSEPI8",
+    "link": "https://www.youtube.com/watch?v=t1ZnptSEPI8",
+    "channelLink": "http://www.youtube.com/@MindYourDecisions",
+    "channelName": "MindYourDecisions",
+    "updatedDate": "2024-07-11T10:30:00.000Z"
+  },
+  {
+    "title": "How AI Discovered a Faster Matrix Multiplication Algorithm",
+    "duration": "780",
+    "category": "Science & Technology",
+    "uploadedDate": "2023-05-22T14:49:53-07:00",
+    "uid": "fDAPJ7rvcUw",
+    "link": "https://www.youtube.com/watch?v=fDAPJ7rvcUw",
+    "channelLink": "http://www.youtube.com/@QuantaScienceChannel",
+    "channelName": "Quanta Magazine",
+    "updatedDate": "2024-07-10T10:30:00.000Z"
+  },
+  {
+    "title": "Beating the $20B Joystick Drift Problem, and giving it away for free",
+    "duration": "1050",
+    "category": "Science & Technology",
+    "uploadedDate": "2023-05-23T08:00:08-07:00",
+    "uid": "oAsrLxaAkY0",
+    "link": "https://www.youtube.com/watch?v=oAsrLxaAkY0",
+    "channelLink": "http://www.youtube.com/@MariusHeier1",
+    "channelName": "Marius Heier",
+    "updatedDate": "2024-07-09T10:30:00.000Z"
+  },
+  {
+    "title": "Animation vs. Physics",
+    "duration": "968",
+    "category": "Film & Animation",
+    "uploadedDate": "2023-12-09T05:00:08-08:00",
+    "uid": "ErMSHiQRnc8",
+    "link": "https://www.youtube.com/watch?v=ErMSHiQRnc8",
+    "channelLink": "http://www.youtube.com/@alanbecker",
+    "channelName": "Alan Becker",
+    "updatedDate": "2024-07-08T10:30:00.000Z"
+  },
+  {
+    "title": "Animation vs. Math",
+    "duration": "843",
+    "category": "Film & Animation",
+    "uploadedDate": "2023-06-24T05:00:09-07:00",
+    "uid": "B1J6Ou4q8vE",
+    "link": "https://www.youtube.com/watch?v=B1J6Ou4q8vE",
+    "channelLink": "http://www.youtube.com/@alanbecker",
+    "channelName": "Alan Becker",
+    "updatedDate": "2024-07-07T10:30:00.000Z"
   },
   {
     "title": "Langton's Loops: The cellular automaton that copies itself",
@@ -147,6 +161,7 @@
     "uid": "xsLX390SJM4",
     "link": "https://www.youtube.com/watch?v=xsLX390SJM4",
     "channelLink": "http://www.youtube.com/@davbrdavbr",
-    "channelName": "davbrdavbr"
+    "channelName": "davbrdavbr",
+    "updatedDate": "2024-07-06T10:30:00.000Z"
   }
 ]
