@@ -1,5 +1,49 @@
 [
   {
+    "title": "Coding Challenge #98.2: Quadtree - Part 2",
+    "duration": "1240",
+    "category": "Education",
+    "uploadedDate": "2018-03-28T05:41:12-07:00",
+    "uid": "QQx_NmCIuCY",
+    "link": "https://www.youtube.com/watch?v=QQx_NmCIuCY",
+    "channelLink": "http://www.youtube.com/@TheCodingTrain",
+    "channelName": "The Coding Train",
+    "updatedDate": "2024-08-01T10:30:00.000Z"
+  },
+  {
+    "title": "Coding Challenge #98.1: Quadtree - Part 1",
+    "duration": "2288",
+    "category": "Education",
+    "uploadedDate": "2018-03-26T09:39:28-07:00",
+    "uid": "OJxEcs0w_kE",
+    "link": "https://www.youtube.com/watch?v=OJxEcs0w_kE",
+    "channelLink": "http://www.youtube.com/@TheCodingTrain",
+    "channelName": "The Coding Train",
+    "updatedDate": "2024-07-31T10:30:00.000Z"
+  },
+  {
+    "title": "The Weirdest Linux Bug Ever Discovered",
+    "duration": "794",
+    "category": "Science & Technology",
+    "uploadedDate": "2024-06-03T14:00:00-07:00",
+    "uid": "-6fPfwixNLk",
+    "link": "https://www.youtube.com/watch?v=-6fPfwixNLk",
+    "channelLink": "http://www.youtube.com/@BrodieRobertson",
+    "channelName": "Brodie Robertson",
+    "updatedDate": "2024-07-30T10:30:00.000Z"
+  },
+  {
+    "title": "The INSANE Evolution of Click Farms",
+    "duration": "635",
+    "category": "Science & Technology",
+    "uploadedDate": "2024-05-05T03:00:00-07:00",
+    "uid": "-CoEHDHb0lE",
+    "link": "https://www.youtube.com/watch?v=-CoEHDHb0lE",
+    "channelLink": "http://www.youtube.com/@nowweknow.",
+    "channelName": "now we know.",
+    "updatedDate": "2024-07-29T10:30:00.000Z"
+  },
+  {
     "title": "We Recreated CIA Technology, It Was Surprisingly Easy (Microdots)",
     "duration": "1046",
     "category": "Science & Technology",
@@ -119,49 +163,5 @@
     "channelLink": "http://www.youtube.com/@tony_saro",
     "channelName": "Tony Saro",
     "updatedDate": "2024-07-18T10:30:00.000Z"
-  },
-  {
-    "title": "The Fastest Maze-Solving Competition On Earth",
-    "duration": "1522",
-    "category": "Education",
-    "uploadedDate": "2023-05-24T10:39:57-07:00",
-    "uid": "ZMQbHMgK2rw",
-    "link": "https://www.youtube.com/watch?v=ZMQbHMgK2rw",
-    "channelLink": "http://www.youtube.com/@veritasium",
-    "channelName": "Veritasium",
-    "updatedDate": "2024-07-17T10:30:00.000Z"
-  },
-  {
-    "title": "The mind-blowing scale of The Milky Way",
-    "duration": "445",
-    "category": "Science & Technology",
-    "uploadedDate": "2023-05-20T16:55:54-07:00",
-    "uid": "VsRmyY3Db1Y",
-    "link": "https://www.youtube.com/watch?v=VsRmyY3Db1Y",
-    "channelLink": "http://www.youtube.com/@EpicSpaceman",
-    "channelName": "Epic Spaceman",
-    "updatedDate": "2024-07-16T10:30:00.000Z"
-  },
-  {
-    "title": "But why would light \"slow down\"? | Optics puzzles 3",
-    "duration": "1764",
-    "category": "Education",
-    "uploadedDate": "2023-11-30T10:42:33-08:00",
-    "uid": "KTzGBJPuJwM",
-    "link": "https://www.youtube.com/watch?v=KTzGBJPuJwM",
-    "channelLink": "http://www.youtube.com/@3blue1brown",
-    "channelName": "3Blue1Brown",
-    "updatedDate": "2024-07-15T10:30:00.000Z"
-  },
-  {
-    "title": "computers suck at division (a painful discovery)",
-    "duration": "309",
-    "category": "Science & Technology",
-    "uploadedDate": "2022-12-01T06:00:33-08:00",
-    "uid": "ssDBqQ5f5_0",
-    "link": "https://www.youtube.com/watch?v=ssDBqQ5f5_0",
-    "channelLink": "http://www.youtube.com/@LowLevelLearning",
-    "channelName": "Low Level Learning",
-    "updatedDate": "2024-07-14T10:30:00.000Z"
   }
 ]

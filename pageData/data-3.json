@@ -1,5 +1,49 @@
 [
   {
+    "title": "The Fastest Maze-Solving Competition On Earth",
+    "duration": "1522",
+    "category": "Education",
+    "uploadedDate": "2023-05-24T10:39:57-07:00",
+    "uid": "ZMQbHMgK2rw",
+    "link": "https://www.youtube.com/watch?v=ZMQbHMgK2rw",
+    "channelLink": "http://www.youtube.com/@veritasium",
+    "channelName": "Veritasium",
+    "updatedDate": "2024-07-17T10:30:00.000Z"
+  },
+  {
+    "title": "The mind-blowing scale of The Milky Way",
+    "duration": "445",
+    "category": "Science & Technology",
+    "uploadedDate": "2023-05-20T16:55:54-07:00",
+    "uid": "VsRmyY3Db1Y",
+    "link": "https://www.youtube.com/watch?v=VsRmyY3Db1Y",
+    "channelLink": "http://www.youtube.com/@EpicSpaceman",
+    "channelName": "Epic Spaceman",
+    "updatedDate": "2024-07-16T10:30:00.000Z"
+  },
+  {
+    "title": "But why would light \"slow down\"? | Optics puzzles 3",
+    "duration": "1764",
+    "category": "Education",
+    "uploadedDate": "2023-11-30T10:42:33-08:00",
+    "uid": "KTzGBJPuJwM",
+    "link": "https://www.youtube.com/watch?v=KTzGBJPuJwM",
+    "channelLink": "http://www.youtube.com/@3blue1brown",
+    "channelName": "3Blue1Brown",
+    "updatedDate": "2024-07-15T10:30:00.000Z"
+  },
+  {
+    "title": "computers suck at division (a painful discovery)",
+    "duration": "309",
+    "category": "Science & Technology",
+    "uploadedDate": "2022-12-01T06:00:33-08:00",
+    "uid": "ssDBqQ5f5_0",
+    "link": "https://www.youtube.com/watch?v=ssDBqQ5f5_0",
+    "channelLink": "http://www.youtube.com/@LowLevelLearning",
+    "channelName": "Low Level Learning",
+    "updatedDate": "2024-07-14T10:30:00.000Z"
+  },
+  {
     "title": "Understanding B-Trees: The Data Structure Behind Modern Databases",
     "duration": "759",
     "category": "Education",
@@ -119,49 +163,5 @@
     "channelLink": "http://www.youtube.com/@dreamsofcode",
     "channelName": "Dreams of Code",
     "updatedDate": "2024-07-03T10:30:00.000Z"
-  },
-  {
-    "title": "Everything We Teach at YCombinator in 10 Minutes",
-    "duration": "619",
-    "category": "People & Blogs",
-    "uploadedDate": "2024-06-01T11:18:54-07:00",
-    "uid": "Pg72m3CjuK4",
-    "link": "https://www.youtube.com/watch?v=Pg72m3CjuK4",
-    "channelLink": "http://www.youtube.com/@Startupistanbul",
-    "channelName": "Startup Istanbul",
-    "updatedDate": "2024-07-02T10:30:00.000Z"
-  },
-  {
-    "title": "Top 7 Algorithms for Coding Interviews Explained SIMPLY",
-    "duration": "1282",
-    "category": "Science & Technology",
-    "uploadedDate": "2022-08-12T09:00:27-07:00",
-    "uid": "kp3fCihUXEg",
-    "link": "https://www.youtube.com/watch?v=kp3fCihUXEg",
-    "channelLink": "http://www.youtube.com/@Codebagel",
-    "channelName": "Codebagel",
-    "updatedDate": "2024-07-01T10:30:00.000Z"
-  },
-  {
-    "title": "Why You Shouldn't Nest Your Code",
-    "duration": "510",
-    "category": "Education",
-    "uploadedDate": "2022-12-06T08:00:11-08:00",
-    "uid": "CFRhGnuXG-4",
-    "link": "https://www.youtube.com/watch?v=CFRhGnuXG-4",
-    "channelLink": "http://www.youtube.com/@CodeAesthetic",
-    "channelName": "CodeAesthetic",
-    "updatedDate": "2024-06-30T10:30:00.000Z"
-  },
-  {
-    "title": "Breaking Bitlocker - Bypassing the Windows Disk Encryption",
-    "duration": "551",
-    "category": "Science & Technology",
-    "uploadedDate": "2024-02-03T10:11:18-08:00",
-    "uid": "wTl4vEednkQ",
-    "link": "https://www.youtube.com/watch?v=wTl4vEednkQ",
-    "channelLink": "http://www.youtube.com/@stacksmashing",
-    "channelName": "stacksmashing",
-    "updatedDate": "2024-06-29T10:30:00.000Z"
   }
 ]

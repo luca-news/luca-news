@@ -1,5 +1,49 @@
 [
   {
+    "title": "This accident led to the quantum revolution of light",
+    "duration": "1937",
+    "category": "Education",
+    "uploadedDate": "2024-08-02T06:01:04-07:00",
+    "uid": "r7k5G_6yzDw",
+    "link": "https://www.youtube.com/watch?v=r7k5G_6yzDw",
+    "channelLink": "http://www.youtube.com/@Mahesh_Shenoy",
+    "channelName": "FloatHeadPhysics",
+    "updatedDate": "8/9/2024 23:46:26"
+  },
+  {
+    "title": "Fast Inverse Square Root — A Quake III Algorithm",
+    "duration": "1208",
+    "category": "Education",
+    "uploadedDate": "2020-11-28T10:00:24-08:00",
+    "uid": "p8u_k2LIZyo",
+    "link": "https://www.youtube.com/watch?v=p8u_k2LIZyo",
+    "channelLink": "http://www.youtube.com/@Nemean",
+    "channelName": "Nemean",
+    "updatedDate": "8/8/2024 20:29:33"
+  },
+  {
+    "title": "Faster than Rust and C++: the PERFECT hash table",
+    "duration": "2032",
+    "category": "Science & Technology",
+    "uploadedDate": "2023-03-10T18:25:52-08:00",
+    "uid": "DMQ_HcNSOAI",
+    "link": "https://www.youtube.com/watch?v=DMQ_HcNSOAI",
+    "channelLink": "http://www.youtube.com/@strager_",
+    "channelName": "strager",
+    "updatedDate": "8/14/2024 23:38:49"
+  },
+  {
+    "title": "How I use Reddit and AI to find winning startup ideas",
+    "duration": "1280",
+    "category": "Science & Technology",
+    "uploadedDate": "2024-07-26T08:00:16-07:00",
+    "uid": "8vXoI7lUroQ",
+    "link": "https://www.youtube.com/watch?v=8vXoI7lUroQ",
+    "channelLink": "http://www.youtube.com/@GregIsenberg",
+    "channelName": "Greg Isenberg",
+    "updatedDate": "8/10/2024 16:31:18"
+  },
+  {
     "title": "Voyager's 15 Billion Mile Software Update",
     "duration": "500",
     "category": "Science & Technology",
@@ -119,49 +163,5 @@
     "channelLink": "http://www.youtube.com/@TheCodingTrain",
     "channelName": "The Coding Train",
     "updatedDate": "2024-08-02T10:30:00.000Z"
-  },
-  {
-    "title": "Coding Challenge #98.2: Quadtree - Part 2",
-    "duration": "1240",
-    "category": "Education",
-    "uploadedDate": "2018-03-28T05:41:12-07:00",
-    "uid": "QQx_NmCIuCY",
-    "link": "https://www.youtube.com/watch?v=QQx_NmCIuCY",
-    "channelLink": "http://www.youtube.com/@TheCodingTrain",
-    "channelName": "The Coding Train",
-    "updatedDate": "2024-08-01T10:30:00.000Z"
-  },
-  {
-    "title": "Coding Challenge #98.1: Quadtree - Part 1",
-    "duration": "2288",
-    "category": "Education",
-    "uploadedDate": "2018-03-26T09:39:28-07:00",
-    "uid": "OJxEcs0w_kE",
-    "link": "https://www.youtube.com/watch?v=OJxEcs0w_kE",
-    "channelLink": "http://www.youtube.com/@TheCodingTrain",
-    "channelName": "The Coding Train",
-    "updatedDate": "2024-07-31T10:30:00.000Z"
-  },
-  {
-    "title": "The Weirdest Linux Bug Ever Discovered",
-    "duration": "794",
-    "category": "Science & Technology",
-    "uploadedDate": "2024-06-03T14:00:00-07:00",
-    "uid": "-6fPfwixNLk",
-    "link": "https://www.youtube.com/watch?v=-6fPfwixNLk",
-    "channelLink": "http://www.youtube.com/@BrodieRobertson",
-    "channelName": "Brodie Robertson",
-    "updatedDate": "2024-07-30T10:30:00.000Z"
-  },
-  {
-    "title": "The INSANE Evolution of Click Farms",
-    "duration": "635",
-    "category": "Science & Technology",
-    "uploadedDate": "2024-05-05T03:00:00-07:00",
-    "uid": "-CoEHDHb0lE",
-    "link": "https://www.youtube.com/watch?v=-CoEHDHb0lE",
-    "channelLink": "http://www.youtube.com/@nowweknow.",
-    "channelName": "now we know.",
-    "updatedDate": "2024-07-29T10:30:00.000Z"
   }
 ]
